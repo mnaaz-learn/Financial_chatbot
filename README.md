@@ -33,7 +33,7 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 ---
 
 ## 👍 Getting Started
-**Prerequisites:** Dataextraction from 10-K, Excel, GoogleColab or Jupyter Notebook, Pandas, and PowerBI.
+**Prerequisites:** Data extraction from 10-K, Excel, GoogleColab or Jupyter Notebook, Pandas, and PowerBI.
 
 ---
 ## 🪴Usage
@@ -53,11 +53,15 @@ This project simulates how consultants or financial analysts might use AI and da
 
 ## 📂 Project Structure
 
-├── data/ # Raw and cleaned financial data
-├── chatbot/ # Python script for the chatbot
-├── dashboards/ # Power BI .pbix files and screenshots
-├── notebook/ # Colab notebook for analysis
-└── README.md # Project overview
+>├── data/ # Raw and cleaned financial data
+
+>├── chatbot/ # Python script for the chatbot
+
+>├── dashboards/ # Power BI .pbix files and screenshots
+
+>├── notebook/ # Colab notebook for analysis
+
+>└── README.md # Project overview
 
 ---
 

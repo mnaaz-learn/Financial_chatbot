@@ -21,11 +21,11 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
   <tr>
     <td align="center" width="33%">
       <h3>Frontend</h3>
-      <img src="https://img.shields.io/badge/-Python-61DAFB?logo=react&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Googlecolab-563D7C?logo=bootstrap&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-NLP-E34F26?logo=html5&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-excel-1572B6?logo=css3&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-PowerBi-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-Googlecolab-563D7C?logo=GoogleColab&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-NLP-E34F26?logo=NLP&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-excel-1572B6?logo=Excel&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-PowerBi-F7DF1E?logo=PowerBI&logoColor=black&style=flat" />
     </td>
   </tr>
 </table>

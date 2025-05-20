@@ -28,6 +28,26 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
     </td>
   </tr>
 </table>
+
+---
+
+## 👍 Getting Started
+**Prerequisites:** Dataextraction from 10-K, Excel, GoogleColab or Jupyter Notebook, Pandas, and PowerBI.
+
+---
+## 🪴Usage
+This project simulates how consultants or financial analysts might use AI and data visualization tools to extract insights from large-scale company filings. **Potential uses include:**
+
+**📊 Financial Benchmarking:** Compare performance across major companies like Apple, Microsoft, and Tesla over time (2022–2024)
+
+**🤖 AI Chatbot:** Quickly query key financial metrics (e.g., revenue, profit margins, R&D spend) using natural language
+
+**📈 Business Intelligence Dashboards:** Provide decision-makers with real-time, interactive views of financial data using Power BI
+
+**💬 Client Communication Tool:** The chatbot can serve as a digital assistant for explaining trends to clients or stakeholders
+
+**📚 Learning Resource:** Great for students or professionals wanting to understand how tech can enhance financial analysis
+
 ---
 
 ## 📂 Project Structure
@@ -38,59 +58,46 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 ├── notebook/ # Colab notebook for analysis
 └── README.md # Project overview
 
-<h2 align="center">👩‍💻 My Skill Set</h2>
+---
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Frontend</h3>
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-      <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Backend</h3>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat" />
-    </td>
-    <td align="center" width="33%">
-      <h3>DevOps</h3>
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
-      <img src="https://img.shields.io/badge/-GoogleCloud-4285F4?logo=google-cloud&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
-    </td>
-  </tr>
-</table>
+## 💡Contributions
+**Any one is welcomed to contribute to this project**
+> 1. Fork the project
+> 2. Create your Feature branch (git checkout -b feature/yourFeature)
+> 3. Commit your Changes (git commit -m 'Add some feature')
+> 4. Push to the branch (git push origin feature/yourfeature)
+> 5. Open a pull request
 
 ---
 
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&langs_count=8" width="300"/>
-    </td>
-  </tr>
-</table>
+## License
+Unlicensed
 
 ---
 
+## 🖇️Contact
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/maleha-naaz-a22923201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mnaaz-learn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mnaaz145/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:malehanaaz892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🙏 Acknowledgments
+
+- [**BCG**](https://www.bcg.com/) & [**Forage**](https://www.theforage.com/) for the simulation 🙌  
+- Tools like [**Pandas**](https://pandas.pydata.org/) 🐼, [**Colab**](https://colab.research.google.com/) ⚙️
+-  [**Power BI**](https://powerbi.microsoft.com/) 📊
+-  [**Git hub**] (https://github.com/othneildrew/Best-README-Template/) 
+
 

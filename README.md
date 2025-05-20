@@ -18,7 +18,7 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 <table>
   <tr>
     <td align="center" width="33%">
-    
+    <h3>Tools</h3>
       <img src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-Googlecolab-563D7C?logo=GoogleColab&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-NLP-E34F26?logo=NLP&logoColor=white&style=flat" />

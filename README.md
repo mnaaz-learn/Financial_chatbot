@@ -1,6 +1,6 @@
 # 📊 BCG Financial Analysis & AI Chatbot Project
 
-This project was completed as part of the **Boston Consulting Group (BCG) Virtual Job Simulation** via Forage. It involves analyzing financial data from **Apple, Microsoft, and Tesla** over the years **2022, 2023, and 2024**, building an AI chatbot, and designing interactive dashboards to deliver business insights.
+This project was completed as part of the **Boston Consulting Group (BCG) Virtual Job Simulation** via Forage. It involves analyzing financial data from **Apple, Microsoft, and Tesla** over the years **2022, 2023, and 2024**, building an AI chatbot, and to make it more interested I extented it with designing interactive dashboards to deliver business insights.
 
 ---
 
@@ -15,7 +15,7 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 
 ## 🛠️ Tools & Technologies
 
-- Python (Pandas)
+- ![Python] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2Funderstanding-principles-of-python-1c01eadd4e2f&psig=AOvVaw0k1TSHk7KHMFDn_-wPbXja&ust=1747794681819000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj_sNyAsY0DFQAAAAAdAAAAABA0)
 - Google Colab
 - Excel
 - Power BI

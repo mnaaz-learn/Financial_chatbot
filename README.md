@@ -13,21 +13,22 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 
 ---
 
-- <h2 align="left">🛠️ Tools & Technologies</h2>
+<h2 align="left">🛠️ Tools & Technologies</h2>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-    <h3>Tools</h3>
-      <img src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-Googlecolab-563D7C?logo=GoogleColab&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-NLP-E34F26?logo=NLP&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-excel-1572B6?logo=Excel&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/-PowerBi-F7DF1E?logo=PowerBI&logoColor=black&style=flat" />
-      <img src="https://img.shields.io/badge/-Github-F7DF1E?logo=Github&logoColor=black&style=flat" /> 
+    <td align="center" width="100%">
+      <h3> Tools </h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
+      <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
     </td>
   </tr>
 </table>
+
 
 ---
 

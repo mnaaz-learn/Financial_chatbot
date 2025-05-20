@@ -18,7 +18,7 @@ This project was completed as part of the **Boston Consulting Group (BCG) Virtua
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>Frontend</h3>
+    
       <img src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-Googlecolab-563D7C?logo=GoogleColab&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-NLP-E34F26?logo=NLP&logoColor=white&style=flat" />
@@ -98,6 +98,6 @@ Unlicensed
 - [**BCG**](https://www.bcg.com/) & [**Forage**](https://www.theforage.com/) for the simulation 🙌  
 - Tools like [**Pandas**](https://pandas.pydata.org/) 🐼, [**Colab**](https://colab.research.google.com/) ⚙️
 -  [**Power BI**](https://powerbi.microsoft.com/) 📊
--  [**Git hub**] (https://github.com/othneildrew/Best-README-Template/) 
+-  [**Git hub**](https://github.com/othneildrew/Best-README-Template/) 
 
 
